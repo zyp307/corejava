@@ -1,0 +1,51 @@
+!SESSION 2015-03-26 22:36:57.880 -----------------------------------------------
+eclipse.buildId=M20070921-1145
+java.version=1.5.0_11
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-03-26 22:41:15.743
+!MESSAGE Installed snippet library: C:\Users\Administrator\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-03-26 22:41:15.803
+!MESSAGE Installed snippet library: C:\Users\Administrator\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-03-26 22:41:15.833
+!MESSAGE Installed snippet library: C:\Users\Administrator\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-03-26 22:41:15.873
+!MESSAGE Installed snippet library: C:\Users\Administrator\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-03-26 22:41:15.913
+!MESSAGE Installed snippet library: C:\Users\Administrator\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-03-26 22:41:15.953
+!MESSAGE Installed snippet library: C:\Users\Administrator\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-03-26 22:41:16.013
+!MESSAGE Installed snippet library: C:\Users\Administrator\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-03-26 22:41:16.043
+!MESSAGE Installed snippet library: C:\Users\Administrator\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-03-26 22:41:16.093
+!MESSAGE Installed snippet library: C:\Users\Administrator\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-03-26 22:41:16.123
+!MESSAGE Installed snippet library: C:\Users\Administrator\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-03-26 22:41:16.163
+!MESSAGE Installed snippet library: C:\Users\Administrator\MyEclipse 6.0\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.0.1.zmyeclipse601200710\snippets\jsp\struts_tiles_snippets.xml
+
+!ENTRY com.tikal.eclipse.updatemanager.quicksetup 4 4 2015-03-26 22:42:09.165
+!MESSAGE Network connection problems encountered during search.
+!SESSION 2015-03-26 22:43:32.946 -----------------------------------------------
+eclipse.buildId=M20070921-1145
+java.version=1.5.0_11
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CN
+Command-line arguments:  -data D:\github\corejava -os win32 -ws win32 -arch x86
+
+!ENTRY com.tikal.eclipse.updatemanager.quicksetup 4 4 2015-03-26 22:44:26.286
+!MESSAGE Network connection problems encountered during search.
