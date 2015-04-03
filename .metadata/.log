@@ -49,3 +49,30 @@ Command-line arguments:  -data D:\github\corejava -os win32 -ws win32 -arch x86
 
 !ENTRY com.tikal.eclipse.updatemanager.quicksetup 4 4 2015-03-26 22:44:26.286
 !MESSAGE Network connection problems encountered during search.
+!SESSION 2015-03-30 12:30:59.866 -----------------------------------------------
+eclipse.buildId=M20070921-1145
+java.version=1.5.0_11
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.tikal.eclipse.updatemanager.quicksetup 4 4 2015-03-30 12:32:09.327
+!MESSAGE Network connection problems encountered during search.
+!SESSION 2015-03-31 10:27:36.882 -----------------------------------------------
+eclipse.buildId=M20070921-1145
+java.version=1.5.0_11
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.update.configurator 2015-03-31 10:27:39.557
+!MESSAGE Could not install bundle ../myeclipse/eclipse/plugins/javax.servlet.jsp_2.0.0.v200706191603.jar   Bundle "javax.servlet.jsp" version "2.0.0.v200706191603" has already been installed from: update@plugins/javax.servlet.jsp_2.0.0.v200706191603.jar
+
+!ENTRY org.eclipse.update.configurator 2015-03-31 10:27:39.572
+!MESSAGE Could not install bundle ../myeclipse/eclipse/plugins/javax.servlet_2.4.0.v200706111738.jar   Bundle "javax.servlet" version "2.4.0.v200706111738" has already been installed from: update@plugins/javax.servlet_2.4.0.v200706111738.jar
+
+!ENTRY org.eclipse.update.configurator 2015-03-31 10:27:39.650
+!MESSAGE Could not install bundle ../myeclipse/eclipse/plugins/org.apache.commons.el_1.0.0.v200706111724.jar   Bundle "org.apache.commons.el" version "1.0.0.v200706111724" has already been installed from: update@plugins/org.apache.commons.el_1.0.0.v200706111724.jar
+
+!ENTRY org.eclipse.update.configurator 2015-03-31 10:27:39.650
+!MESSAGE Could not install bundle ../myeclipse/eclipse/plugins/org.apache.commons.logging_1.0.4.v200706111724.jar   Bundle "org.apache.commons.logging" version "1.0.4.v200706111724" has already been installed from: update@plugins/org.apache.commons.logging_1.0.4.v200706111724.jar

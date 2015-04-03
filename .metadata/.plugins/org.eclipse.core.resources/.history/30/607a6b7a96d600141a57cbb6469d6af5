@@ -23,8 +23,8 @@ public class TimerTest
       Timer t = new Timer(1000, listener);
       t.start(); 
 
-      JOptionPane.showMessageDialog(null, "Quit program?");   // 添加此功能是为了不让程序自动完成
-      System.exit(0);
+//      JOptionPane.showMessageDialog(null, "Quit program?");
+//      System.exit(0);
    }
 }
 

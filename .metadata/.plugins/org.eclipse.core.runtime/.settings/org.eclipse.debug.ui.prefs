@@ -1,3 +1,4 @@
-#Thu Mar 26 22:42:39 CST 2015
+#Mon Mar 30 12:38:51 CST 2015
+org.eclipse.debug.ui.cancel_launch_with_compile_errors=always
 eclipse.preferences.version=1
 org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<launchPerspectives/>\r\n
